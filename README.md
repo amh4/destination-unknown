@@ -1,6 +1,24 @@
 # Destination Unknown
 
-### A flight price comparison site that gives you itinerary recommendations for your destination
+### A travel comparison site that gives you flight prices, images and itinerary recommendations for your destination
+
+<br>
+
+- [Technologies](#technologies)
+- [Project Overview](#project-overview)
+- [Planning](#planning)
+  - [Technologies Research](#technologies-research)
+  - [Scoping out our MVP](#scoping-out-our-mvp)
+  - [MVP Stories](#mvp-stories)
+  - [Stretch Stories](#stretch-stories)
+  - [Sprint Planning](#sprint-planning)
+- [Features](#features)
+- [To run locally](#to-run-locally)
+  - [APIs](#apis)
+- [Test Coverage](#test-coverage)
+  - [Backend Testing](#backend-testing)
+  - [Frontend Testing](#frontend-testing)
+- [Future Actions](#future-actions)
 
 <br>
 
