@@ -1,6 +1,6 @@
 # Destination Unknown
 
-### A travel comparison site that gives you flight prices, images and itinerary recommendations for your destination
+### A travel comparison site that gives you flight prices, images and itinerary recommendations for your destination.
 
 <br>
 
