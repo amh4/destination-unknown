@@ -1,6 +1,8 @@
 # Destination Unknown
 
-### A travel comparison site that gives you flight prices, images and itinerary recommendations for your destination.
+In this project five of us were given a very broad remit to create a site that aggregates data for the end user. The challenge was to choose our own tech stack, scope out the project, decide on an MVP, stretch goals and implement with Agile and Paired Programming.
+
+After exchanging ideas we decided to create a travel comparison site that gives you flight prices, images and itinerary recommendations for your destination.
 
 <br>
 
